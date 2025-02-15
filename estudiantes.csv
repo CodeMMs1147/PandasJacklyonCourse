@@ -1,0 +1,10 @@
+idM_sede,Ident,nombre,codigo,Ciudad,Nom_Contac,Email,Dir,Tel,Estado,Dpto
+11,9000754561,Asignar S.A.S,MDN,Medellin,Sandra Camacho,diroperativa@asignar.com.co,"CR 48 10-45 Oficina 925, Centro comercial Monterrey",PBX (57) 604 322 0310,1,Medellin - Antioquia - Colombia
+12,9000754562,Asignar S.A.S,BOG,Bogota,Jorge Camacho,asibogota@asignar.com.co,Cra 19 44-27 Of. 203 - Entrada vehicular: Cra 20 44-40 - Barrio Palermo,PBX (57) 604 322 0310,1,Bogota - Cundinamarca - Colombia
+13,9000754563,Asignar S.A.S,SAN,San Andres,Sandra Camacho,diroperativa@asignar.com.co,San Andres,0,1,
+14,9000754564,Asignar S.A.S,CAL,Cali,Jorge Camacho,asibogota@asignar.com.co,Carrera 19 No 44-27 Of. 203,6091029,1,
+15,9000754565,Asignar S.A.S,ADM,Administracion,Sandra Camacho,diroperativa@asignar.com.co,"CR 48 10-45 Oficina 802, Centro comercial Monterrey",3220310,1,
+16,9000754566,Asignar S.A.S,BRQ,Barranquilla,Pendiente,pendiente,Calle Centro Comercial,PBX (57) 604 322 0310,1,Barranquilla - Atlantico - Colombia
+17,9000754567,Asignar S.A.S,RIO,Rionegro,Sandra Camacho,diroperativa@asignar.com.co,"CR 48 10-45 Oficina 802, Centro comercial Monterrey",3220310,1,
+18,9000754568,Asignar S.A.S,PER,Pereira,Sandra Camacho,diroperativa@asignar.com.co,Pereira,3220310,1,
+19,90007545613,Asignar S.A.S,CTG,Cartagena,Sandra Camacho,diroperativa@asignar.com.co,Cartagena,3220310,1,
